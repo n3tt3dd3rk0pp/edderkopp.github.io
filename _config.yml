@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: n3tt3dd3rk0pp # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: A blog by edderkopp # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A cyber security and hacking blog.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -28,18 +28,18 @@ url: "https://n3tt3dd3rk0pp.github.io"
 github:
   username: n3tt3dd3rk0pp # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+  # username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: n3tt3dd3rk0pp
+  email: n3tt3dd3rk0pp@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/n3tt3dd3rk0pp # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
